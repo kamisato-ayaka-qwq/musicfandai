@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://raw.githubusercontent.com/pdone/lx-music-source/"
+      "destination": "https://raw.githubusercontent.com/pdone/lx-music-source"
     }
   ]
 }
